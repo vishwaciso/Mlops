@@ -278,7 +278,7 @@ from grc.compliance import check_iso
 
 ---
 
-📌 **Perfect for GitHub, YouTube teaching, interviews, and real-world usage**
+
 
 ---
 
