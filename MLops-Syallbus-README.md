@@ -1,3 +1,11 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jan 11, 2026, 01_36_06 PM" src="https://github.com/user-attachments/assets/11fc816d-fa83-49e4-9fc9-92558168b8a5" />
+
+
+
+
+
+
+
 # 🤖 Advanced & Industry-Grade MLOps (Machine Learning Operations) Syllabus
 
 **Level:** Absolute Beginner → Advanced / Production Expert  
