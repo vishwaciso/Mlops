@@ -208,19 +208,9 @@ Use Model for Predictions
 
 ---
 
-## 🎥 YouTube Video Ideas (VishwaOps)
-
-- Algorithm vs Model explained simply
-- How to choose ML algorithms
-- Common ML beginner mistakes
-
 ---
 
-## 🔜 Next Recommended Topics
 
-1. ML mini project (algorithm → model → deployment)
-2. Hyperparameters vs parameters
-3. Model versioning & monitoring
 
 ---
 
