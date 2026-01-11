@@ -211,21 +211,6 @@ AI
 
 ---
 
-## 🎥 YouTube Content Ideas (VishwaOps)
-- AI vs ML vs DL explained for beginners
-- AI is NOT ML – understand the difference
-- ML without math fear
-- What MLOps engineers really need
-
----
-
-## 🔜 Next Recommended Topics
-1. Machine Learning basics (data, model, training)
-2. ML workflow explained step-by-step
-3. ML vs Data Science vs MLOps
-4. ML basics required for MLOps
-
----
 
 ### ⭐ If you found this useful
 Give this repo a ⭐ and follow **VishwaOps** for practical, industry-focused learning.
